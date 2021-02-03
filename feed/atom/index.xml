@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/leviyan-blogs-test/</id><title>leviyan的个人博客</title><updated>2021-02-03T11:24:39.229473+08:06</updated><author><name>熊猫小A</name><email>hi@imalan.cn</email></author><link href="/leviyan-blogs-test/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>/leviyan-blogs-test/logo.png</logo><subtitle>只坚持一种正义。我的正义。</subtitle><entry><id>/leviyan-blogs-test/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2021-02-03T11:24:39.229929+00:00</updated><author><name>熊猫小A</name><email>hi@imalan.cn</email><uri>https://www.imalan.cn</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！&lt;/p&gt;</content><link href="/leviyan-blogs-test/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-17T20:34:00+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/typography/</id><title>Hello World!</title><updated>2021-02-03T11:24:39.229872+00:00</updated><author><name>AlanDecode</name><email>hi@imalan.cn</email><uri>https://www.imalan.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/leviyan-blogs-test/</id><title>leviyan的个人博客</title><updated>2021-02-03T11:59:24.819762+08:06</updated><author><name>熊猫小A</name><email>hi@imalan.cn</email></author><link href="/leviyan-blogs-test/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>/leviyan-blogs-test/logo.png</logo><subtitle>只坚持一种正义。我的正义。</subtitle><entry><id>/leviyan-blogs-test/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2021-02-03T11:59:24.820257+00:00</updated><author><name>熊猫小A</name><email>hi@imalan.cn</email><uri>https://www.imalan.cn</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！&lt;/p&gt;</content><link href="/leviyan-blogs-test/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-17T20:34:00+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/typography/</id><title>Hello World!</title><updated>2021-02-03T11:59:24.820215+00:00</updated><author><name>AlanDecode</name><email>hi@imalan.cn</email><uri>https://www.imalan.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -81,7 +81,7 @@
 &lt;li id="fn-1"&gt;&lt;p&gt;Home page for AlanDecode&lt;a href="#fnref-1" class="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-</content><link href="/leviyan-blogs-test/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/typography/</id><title>Hello World!</title><updated>2021-02-03T11:24:39.229679+00:00</updated><author><name>AlanDecode</name><email>hi@imalan.cn</email><uri>https://www.imalan.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+</content><link href="/leviyan-blogs-test/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/typography/</id><title>Hello World!</title><updated>2021-02-03T11:59:24.820041+00:00</updated><author><name>AlanDecode</name><email>hi@imalan.cn</email><uri>https://www.imalan.cn</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -163,13 +163,13 @@
 &lt;li id="fn-1"&gt;&lt;p&gt;Home page for AlanDecode&lt;a href="#fnref-1" class="footnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-</content><link href="/leviyan-blogs-test/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/title/</id><title>Git</title><updated>2021-02-03T11:24:39.229638+00:00</updated><content>&lt;blockquote&gt;
+</content><link href="/leviyan-blogs-test/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/title/</id><title>Git</title><updated>2021-02-03T11:59:24.819996+00:00</updated><content>&lt;blockquote&gt;
 &lt;p&gt;Warning: This article is not completed.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2&gt;often used&lt;/h2&gt;
 &lt;h3&gt;special use&lt;/h3&gt;
 &lt;p&gt;cancel tracking a file
 &lt;code&gt;git rm -r --cached file&lt;/code&gt;, not delete local file
-&lt;code&gt;git rm -r -f&lt;/code&gt;, delete local file&lt;/p&gt;</content><link href="/leviyan-blogs-test/archives/title/" rel="alternate"/><published>2020-06-10T18:54:18+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/Chrome/</id><title>Chrome</title><updated>2021-02-03T11:24:39.229530+00:00</updated><content>&lt;p&gt;chrome手动更新办法&lt;/p&gt;&lt;ol&gt;
+&lt;code&gt;git rm -r -f&lt;/code&gt;, delete local file&lt;/p&gt;</content><link href="/leviyan-blogs-test/archives/title/" rel="alternate"/><published>2020-06-10T18:54:18+08:06</published></entry><entry><id>/leviyan-blogs-test/archives/Chrome/</id><title>Chrome</title><updated>2021-02-03T11:59:24.819825+00:00</updated><content>&lt;p&gt;chrome手动更新办法&lt;/p&gt;&lt;ol&gt;
 &lt;li&gt;进入链接: &lt;u&gt;chrome://sync-internals/&lt;/u&gt;&lt;/li&gt;
 &lt;li&gt;点击 &lt;code&gt;Disable Sync (Clear Data)&lt;/code&gt; 按钮&lt;/li&gt;
 &lt;li&gt;点击 &lt;code&gt;Request Start&lt;/code&gt; 按钮&lt;/li&gt;
