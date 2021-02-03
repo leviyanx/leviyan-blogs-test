@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome
-slug: typography
+slug: Chrome
 status: publish
 categories:
   - tutorials
