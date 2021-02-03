@@ -2,6 +2,7 @@
 layout: post
 title: Chrome
 slug: typography
+status: publish
 categories:
   - tutorials
 tags:
